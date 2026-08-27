@@ -1,0 +1,12 @@
+{
+  "name": "Sistema Solar — Explore o Universo",
+  "short_name": "Sistema Solar",
+  "description": "Uma experiência educativa para explorar o Sistema Solar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05060b",
+  "theme_color": "#05060b",
+  "lang": "pt-BR",
+  "icons": []
+}
